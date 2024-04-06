@@ -1,0 +1,4 @@
+name: EventListener
+version: '${project.version}'
+main: lol.niox.eventlistener.EventListener
+api-version: '1.20'
